@@ -1,6 +1,6 @@
 # elixir-browser
 
-[![Build Status](https://travis-ci.org/exit9/elixir-browser.svg?branch=master)](https://travis-ci.org/exit9/elixir-browser)
+[![Build Status](https://github.com/exit9/elixir-browser.svg?branch=master)](https://github.com/exit9/elixir-browser)
 
 Browser detection for Elixir.
 This is a port from the [Ruby browser library](https://github.com/fnando/browser).
